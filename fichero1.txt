@@ -1,3 +1,1 @@
-Esto es una nueva funcionalidad que estoy creando en una rama nueva y las otras líneas no tienen  sentido ahora.
-PNL
-Modificado desde Intellij
+Ahora estamos en la primera liena del fichero pero en la nueva rama feature/PNL
